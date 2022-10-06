@@ -4,7 +4,7 @@
   "description": "Taller de defensa personal digital",
   "main": "presentation.md",
   "dependencies": {
-    "backslide": "^2.3.7"
+    "backslide": "^2.6.2"
   },
   "devDependencies": {},
   "scripts": {
